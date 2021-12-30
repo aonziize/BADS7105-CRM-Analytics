@@ -1,6 +1,6 @@
 # BADS7105-CRM-Analytics
 
-**Assignment**\
+**Assignment**
 >01 : CLV Dashboard\
 >02 : Customer Segmentation\
 >03 : Product Recommendation\

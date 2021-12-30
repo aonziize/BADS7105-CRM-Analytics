@@ -8,4 +8,4 @@
 >05 : A/B Testing\
 >06 : Customer Movement Analysis\
 >07 : Voice of Customer\
->08 : Design Thinking\
+>08 : Design Thinking
